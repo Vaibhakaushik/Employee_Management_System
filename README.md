@@ -87,4 +87,3 @@ The dashboard provides:
 ## Author
 Vaibhav Kaushik
 
-GitHub: https://github.com/your-username
